@@ -1,2 +1,2 @@
 # beginners-projects
-A repository containing all my beginner and pratice projects
+A repository containing all my beginner and practice projects
